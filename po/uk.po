@@ -6,14 +6,14 @@
 # Сергій <sergiy.goncharuk.1@gmail.com>, 2024.
 # Максим Горпиніч <gorpinicmaksim0@gmail.com>, 2025.
 # Automatic translation add-on <noreply-addon-autotranslate@weblate.org>, 2026.
+# Serhii Horichenko <serhii@horichenko.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: kooha\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 14:41+0800\n"
-"PO-Revision-Date: 2026-06-05 06:45+0000\n"
-"Last-Translator: Automatic translation add-on <noreply-addon-"
-"autotranslate@weblate.org>\n"
+"PO-Revision-Date: 2026-07-27 23:01+0000\n"
+"Last-Translator: Serhii Horichenko <serhii@horichenko.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/seadve/kooha/"
 "uk/>\n"
 "Language: uk\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 #: data/io.github.seadve.Kooha.desktop.in.in:2
 #: data/io.github.seadve.Kooha.metainfo.xml.in.in:7 src/about.rs:24
@@ -299,7 +299,6 @@ msgid "translator-credits"
 msgstr "Ihor Hordiichuk, Serhii Honcharuk"
 
 #: src/about.rs:44
-#, fuzzy
 msgid "Donate"
 msgstr "Пожертвувати"
 
